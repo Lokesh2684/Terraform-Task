@@ -1,8 +1,8 @@
 resource_group_name = "Lokesh-RSG"
 location = "eastus"
-sql_server_name = "lokesh_sql_server112"
-sql_db_name = "lokesh_sql_db2684"
-aks_cluster_name = "lokesh_cluster"
+sql_server_name = "lokeshsqlserver112"
+sql_db_name = "lokeshsqldb2684"
+aks_cluster_name = "lokesh-cluster"
 node_count = 2
 vm_size = "standard_a2_v2"
 kubernetes_version = "1.30.1"
