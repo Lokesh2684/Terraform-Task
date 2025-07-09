@@ -87,7 +87,7 @@ jobs:
       - name: Set AKS context
         uses: azure/aks-set-context@v3
         with:
-          resource-group: demo
+          resource-group: Lokesh-RSG-1
           cluster-name: lokesh-cluster
 
       - name: Apply Kubernetes manifests
