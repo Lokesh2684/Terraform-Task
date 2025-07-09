@@ -95,7 +95,7 @@ spec:
 
       - name: mhc-front
 
-        image: jatinbhalla1991/myhealth.web:latest
+        image: loki3092/myhealth.web:latest
 
         imagePullPolicy: Always
 
