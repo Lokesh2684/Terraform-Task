@@ -1,4 +1,4 @@
-resource_group_name = "Lokesh-RSG"
+resource_group_name = "Lokesh-RSG-1"
 location = "eastus"
 sql_server_name = "lokeshsqlserver112"
 sql_db_name = "lokeshsqldb2684"
