@@ -1,8 +1,8 @@
-resource_group_name = "demo"
+resource_group_name = "Lokesh-RSG"
 location = "eastus"
-sql_server_name = "demo123456319"
-sql_db_name = "demo"
-aks_cluster_name = "aks-demo-cluster"
+sql_server_name = "lokesh_sql_server112"
+sql_db_name = "lokesh_sql_db2684"
+aks_cluster_name = "lokesh_cluster"
 node_count = 2
 vm_size = "standard_a2_v2"
 kubernetes_version = "1.30.1"
